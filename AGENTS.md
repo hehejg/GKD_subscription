@@ -105,9 +105,9 @@ pnpm run lint
 
 ## 5. 在线订阅分发地址速查
 
-- **国内主分发（jsDelivr CDN）**：
-  `https://cdn.jsdelivr.net/gh/hehejg/GKD_subscription@main/dist/AIsouler_gkd.json5`
-- **国内镜像备用（GitMirror）**：
-  `https://raw.gitmirror.com/hehejg/GKD_subscription/main/dist/AIsouler_gkd.json5`
-- **GitHub 官方 Raw 直连**：
+- **GitHub 官方 Raw 直连（用户首选，有代理外网环境，秒级同步无 CDN 缓存）：**
   `https://raw.githubusercontent.com/hehejg/GKD_subscription/main/dist/AIsouler_gkd.json5`
+- **国内主分发（jsDelivr CDN，备用）：**
+  `https://cdn.jsdelivr.net/gh/hehejg/GKD_subscription@main/dist/AIsouler_gkd.json5`
+- **国内镜像备用（GitMirror）：**
+  `https://raw.gitmirror.com/hehejg/GKD_subscription/main/dist/AIsouler_gkd.json5`

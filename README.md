@@ -7,22 +7,16 @@
 
 ## 📱 手机端订阅链接
 
-在手机 GKD App -> **订阅** -> 点击右上角 **`+`** 号导入下方任意一条链接即可：
+在手机 GKD App -> **订阅** -> 点击右上角 **`+`** 号导入下方链接即可：
 
-### 🌟 国内首选推荐（jsDelivr CDN 全球加速，免代理直连）：
-```txt
-https://cdn.jsdelivr.net/gh/hehejg/GKD_subscription@main/dist/AIsouler_gkd.json5
-```
-
-### 备用高速镜像（GitMirror）：
-```txt
-https://raw.gitmirror.com/hehejg/GKD_subscription/main/dist/AIsouler_gkd.json5
-```
-
-### GitHub 官方直连（需代理）：
+### 🌟 官方直连（推荐外网/代理环境使用，秒级同步无 CDN 缓存延迟）：
 ```txt
 https://raw.githubusercontent.com/hehejg/GKD_subscription/main/dist/AIsouler_gkd.json5
 ```
+
+### 备用免代理链接（国内网络环境）：
+- jsDelivr CDN：`https://cdn.jsdelivr.net/gh/hehejg/GKD_subscription@main/dist/AIsouler_gkd.json5`
+- GitMirror 镜像：`https://raw.gitmirror.com/hehejg/GKD_subscription/main/dist/AIsouler_gkd.json5`
 
 ---
 
